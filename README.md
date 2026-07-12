@@ -47,10 +47,7 @@ Build log (build-log.md)
 Raw run capture (raw-run.mp4 / Drive link)
 
 ---
-📜 License
-This project is for educational/demo purposes under Assignment FL-07.
 
----
 ## 🧩 Project Metadata
 
 ![Type: Assignment](https://img.shields.io/badge/Type-Assignment-blue?style=for-the-badge)
@@ -59,7 +56,10 @@ This project is for educational/demo purposes under Assignment FL-07.
 ![When: Week 5](https://img.shields.io/badge/When-Week%205-orange?style=for-the-badge)
 ![Workload: 10h](https://img.shields.io/badge/Workload-10h-yellow?style=for-the-badge)
 ![Phase: Build your chosen note](https://img.shields.io/badge/Phase-Build%20your%20chosen%20note-purple?style=for-the-badge)
+![Agent Footer](footer.png)
 
 ---
 
-![Agent Footer](footer.png)
+📜 License
+This project is for educational/demo purposes under Assignment FL-07.
+
