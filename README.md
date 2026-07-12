@@ -41,7 +41,8 @@ The working run is available as:
 Local file: raw-run.mp4
 
 Public link: Google Drive Recording
-![Raw Run Capture](https://drive.google.com/file/d/1bY4C1r4zZ6X-VH0vRX58eQLsE5HB_JbU/view?usp=sharing)
+![Raw Run Capture](https://drive.google.com/file/d/1BoOoljPx1ASJT2jE_kS9r5BT9IDzqbZL/view?usp=sharing)
+
 
 ---
 
