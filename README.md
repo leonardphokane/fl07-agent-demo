@@ -8,7 +8,7 @@
 ![Workload: 10h](https://img.shields.io/badge/Workload-10h-yellow?style=for-the-badge)
 ![Phase: Build your chosen note](https://img.shields.io/badge/Phase-Build%20your%20chosen%20note-purple?style=for-the-badge)
 
----
+
 A Node.js agent built for Assignment FL-07.  
 This project demonstrates a minimal MCP filesystem connector that reads and summarizes a file (`report.txt`) end-to-end.
 
