@@ -1,4 +1,3 @@
-
 # Build the Agent Demo
 ![Build the Agent](header.png)
 ![Type: Assignment](https://img.shields.io/badge/Type-Assignment-blue?style=for-the-badge)
@@ -42,7 +41,6 @@ Local file: raw-run.mp4
 
 Public link: Google Drive Recording
 ![Raw Run Capture](https://drive.google.com/file/d/1BoOoljPx1ASJT2jE_kS9r5BT9IDzqbZL/view?usp=sharing)
-
 
 ---
 
