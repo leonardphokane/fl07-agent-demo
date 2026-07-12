@@ -1,7 +1,14 @@
 
 # Build the Agent Demo
 ![Build the Agent](header.png)
+![Type: Assignment](https://img.shields.io/badge/Type-Assignment-blue?style=for-the-badge)
+![Code: FL-07](https://img.shields.io/badge/Code-FL--07-lightgrey?style=for-the-badge)
+![Track: General AI Fluency](https://img.shields.io/badge/Track-General%20AI%20Fluency-green?style=for-the-badge)
+![When: Week 5](https://img.shields.io/badge/When-Week%205-orange?style=for-the-badge)
+![Workload: 10h](https://img.shields.io/badge/Workload-10h-yellow?style=for-the-badge)
+![Phase: Build your chosen note](https://img.shields.io/badge/Phase-Build%20your%20chosen%20note-purple?style=for-the-badge)
 
+---
 A Node.js agent built for Assignment FL-07.  
 This project demonstrates a minimal MCP filesystem connector that reads and summarizes a file (`report.txt`) end-to-end.
 
@@ -28,7 +35,6 @@ fl07-agent-demo/
 
 ---
 
-
 ## 🎥 Raw Run Capture
 The working run is available as:
 
@@ -48,17 +54,8 @@ Raw run capture (raw-run.mp4 / Drive link)
 
 ---
 
-## 🧩 Project Metadata
-
-![Type: Assignment](https://img.shields.io/badge/Type-Assignment-blue?style=for-the-badge)
-![Code: FL-07](https://img.shields.io/badge/Code-FL--07-lightgrey?style=for-the-badge)
-![Track: General AI Fluency](https://img.shields.io/badge/Track-General%20AI%20Fluency-green?style=for-the-badge)
-![When: Week 5](https://img.shields.io/badge/When-Week%205-orange?style=for-the-badge)
-![Workload: 10h](https://img.shields.io/badge/Workload-10h-yellow?style=for-the-badge)
-![Phase: Build your chosen note](https://img.shields.io/badge/Phase-Build%20your%20chosen%20note-purple?style=for-the-badge)
-![Agent Footer](footer.png)
-
----
 📜 License
-> This project is for educational/demo purposes under Assignment FL-07.
+```This project is for educational/demo purposes under Assignment FL-07.
+
+![Agent Footer](footer.png)
 
