@@ -1,0 +1,4 @@
+This is a demo report.
+It contains multiple lines of text.
+The agent will summarize the first few lines.
+This shows end-to-end tool usage.
