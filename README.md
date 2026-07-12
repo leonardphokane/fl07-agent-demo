@@ -1,8 +1,6 @@
-![Build the Agent](header.png)
-
 
 # Build the Agent Demo
-
+![Build the Agent](header.png)
 A Node.js agent built for Assignment FL-07.  
 This project demonstrates a minimal MCP filesystem connector that reads and summarizes a file (`report.txt`) end-to-end.
 
