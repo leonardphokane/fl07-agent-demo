@@ -58,8 +58,6 @@ Raw run capture (raw-run.mp4 / Drive link)
 ![Phase: Build your chosen note](https://img.shields.io/badge/Phase-Build%20your%20chosen%20note-purple?style=for-the-badge)
 ![Agent Footer](footer.png)
 
----
-
 📜 License
 This project is for educational/demo purposes under Assignment FL-07.
 
