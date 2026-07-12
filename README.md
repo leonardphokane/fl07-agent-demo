@@ -54,8 +54,7 @@ Raw run capture (raw-run.mp4 / Drive link)
 
 ---
 
-📜 License
-```This project is for educational/demo purposes under Assignment FL-07.
-
 ![Agent Footer](footer.png)
 
+📜 License
+```This project is for educational/demo purposes under Assignment FL-07.
