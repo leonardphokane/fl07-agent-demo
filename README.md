@@ -54,6 +54,17 @@ Raw run capture (raw-run.mp4 / Drive link)
 
 ---
 
+## 📬 Contact Me
+
+<img src="images/profile.png" alt="Profile" width="120" height="120">
+
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/leonardphokane)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/leonard-phokane)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:leonard.phokane@10x.ai)
+
+---
+
 ## 📜 License
 This project is for educational/demo purposes under Assignment FL-07.
 
