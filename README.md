@@ -34,13 +34,13 @@ fl07-agent-demo/
 
 ---
 
-## 🎥 Raw Run Capture
-The working run is available as:
+## 🎥 Demo Recording
 
-Local file: raw-run.mp4
+[![▶️ Watch the demo](assets/demo.png)](assets/raw-run.mp4)
 
-Public link: Google Drive Recording
-![Raw Run Capture](https://drive.google.com/uc?export=view&id=1BoOoljPx1ASJT2jE_kS9r5BT9IDzqbZL)
+This section includes a screenshot thumbnail (`demo.png`) that links directly to the raw run recording (`raw-run.mp4`).  
+Both files are stored under the `assets/` folder for version control and easy access.
+
 
 
 ---
